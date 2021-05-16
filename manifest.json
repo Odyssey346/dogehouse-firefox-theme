@@ -1,0 +1,53 @@
+{
+    "name": "DogeHouse Theme for Firefox",
+    "author": "Alexander Johansen (Odyssey346)",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "colors": {
+            "frame": "rgba(11, 14, 17, 1)",
+            "frame_inactive": "rgb(0, 0, 0)",
+
+            "tab_text": "rgb(255, 255, 255)",
+            "tab_background_text": "rgb(170, 170, 170)",
+            "tab_background_separator": "rgba(255, 255, 255, 0.5)",
+
+            "tab_line": "#fd4d4d",
+            "tab_loading": "#fd4d4d",
+            "icons_attention": "#fd4d4d",
+
+            "toolbar": "rgba(21, 26, 33, 1)",
+            "toolbar_top_separator": "rgb(35, 35, 35)",
+            "toolbar_bottom_separator": "rgb(35, 35, 35)",
+            "toolbar_vertical_separator": "rgba(222, 227, 234, 1)",
+
+            "toolbar_field": "rgba(11, 14, 17, 0.5)",
+            "toolbar_field_text": "rgb(200, 200, 200)",
+            "toolbar_field_border": "rgb(18, 18, 18)",
+            "toolbar_field_separator": "rgba(222, 227, 234, 0.2)",
+
+            "toolbar_field_focus": "rgb(11, 14, 17, 0.1)",
+            "toolbar_field_border_focus": "rgba(11, 14, 17, 0.1)",
+
+            "button_background_hover": "rgba(200, 200, 200, 0.12)",
+            "button_background_active": "rgba(255, 255, 255, 0.15)",
+            "icons": "rgb(169, 169, 169)",
+            "bookmark_text": "rgb(170, 170, 170)",
+
+            "popup": "rgb(18, 18, 18)",
+            "popup_text": "rgb(200, 200, 200)",
+            "popup_border": "rgb(18, 18, 18)",
+            "popup_highlight": "#21252B",
+            "popup_highlight_text": "rgb(255, 255, 255)",
+
+            "ntp_background": "rgb(11, 14, 17)",
+            "ntp_text": "rgb(170, 170, 170)",
+
+            "sidebar": "rgb(35, 35, 35)",
+            "sidebar_text": "rgb(170, 170, 170)",
+            "sidebar_border": "rgb(18, 18, 18)",
+            "sidebar_highlight": "#fd4d4d",
+            "sidebar_highlight_text": "rgb(170, 170, 170)"
+        }
+    }
+}
