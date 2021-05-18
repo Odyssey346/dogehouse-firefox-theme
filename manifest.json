@@ -2,7 +2,7 @@
     "name": "DogeHouse Theme for Firefox",
     "author": "Alexander Johansen (Odyssey346)",
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "1.0.1",
     "theme": {
         "colors": {
             "frame": "rgba(11, 14, 17, 1)",
@@ -27,7 +27,7 @@
             "toolbar_field_separator": "rgba(222, 227, 234, 0.2)",
 
             "toolbar_field_focus": "rgb(11, 14, 17, 0.1)",
-            "toolbar_field_border_focus": "rgba(11, 14, 17, 0.1)",
+            "toolbar_field_border_focus": "#fd4d4d",
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
